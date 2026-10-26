@@ -28,6 +28,14 @@ The original **DOOM (1993)** running inside an X post as a player card — no do
 
 ---
 
+### 🕹 X Card Games
+
+DOOM and **Tyrian 2000** — playable inside X posts through player cards.
+
+📦 [Source](https://github.com/anefril/x-card-games)
+
+---
+
 ### 🛠 Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
