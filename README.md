@@ -36,11 +36,21 @@ DOOM and **Tyrian 2000** — playable inside X posts through player cards.
 
 ---
 
+### 📝 TG Notes
+
+Send anything to a Telegram bot — text, links, photos, voice, files — and it becomes a note on your own website: a list with pinning and drag-to-reorder, a sticky-note **wall** with arrows between notes, tags, search, reminders and auto-translation.
+
+Next.js · Supabase · Tailwind · shadcn/ui — 📦 [Source](https://github.com/anefril/tg-notes)
+
+---
+
 ### 🛠 Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654ff0?style=flat-square&logo=webassembly&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-f38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=flat-square&logo=playwright&logoColor=white)
 ![Solidity / EVM](https://img.shields.io/badge/EVM-3c3c3d?style=flat-square&logo=ethereum&logoColor=white)
