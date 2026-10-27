@@ -14,7 +14,7 @@
 
 ### ♨️ Capybara Chill
 
-<a href="https://capybara.sojo.gg"><img src="capybara.jpg" alt="A capybara in a hot spring at dusk, with lanterns and a sakura tree" width="100%"></a>
+<a href="https://capybara.sojo.gg"><img src="capybara.jpg" alt="A capybara in a hot spring at sunrise, under a sakura tree" width="100%"></a>
 
 A capybara soaks in a hot spring. Lofi plays, sakura petals drift down, a rubber duck paddles in circles. You keep it company, scratch it when it asks, and points drip in. No grind, just chill.
 
